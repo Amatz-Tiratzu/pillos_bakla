@@ -1,0 +1,6 @@
+{
+  "name": "Rice Grain Quality & Defect Detection System",
+  "description": "Computer vision system for rice grain quality assessment, defect classification (None, Broken, Discolored, Cracked, Chalky), multi-model comparison (Custom CNN, MobileNetV2, ResNet50), and research evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
